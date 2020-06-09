@@ -85,3 +85,7 @@ button[type=submit]:hover {
 {
 	font: 1em sans-serif;
 }
+
+p.signuperror{
+	color: red;
+}
