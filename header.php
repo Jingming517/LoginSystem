@@ -16,9 +16,9 @@
 					<ul class="">
 						<li class=""><a href="index.php">Home</a></li>
 						<li class=""><a href="http://216.24.181.167/">LeapEngine</a></li>
+						<li class=""><a href="https://www.liujingming.site/projects/StereoBM/index.html">StereoBM</a></li>
 						<li class=""><a href="https://youtu.be/DPWFyXDz6dE">Video</a></li>
 						<li class=""><a href="https://drive.google.com/file/d/1QT7y-ZkMawGkyTpYAlXJDWw9djsv9YY8/view?usp=sharing">Poster</a></li>
-					</ul>
 				</div>
 			</nav>
 
