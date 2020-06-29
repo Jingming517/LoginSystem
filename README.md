@@ -1,5 +1,5 @@
 # LoginSystem
-# http://jinliu79.freehostia.com/LoginSystem/  
+# http://jinliu79.freehostia.com/LoginSystem_backup/
 ### A simple user login system for websites. Written in PHP. 
 ![Image](https://github.com/Jingming517/LoginSystem/blob/master/img/loginSystem_screenshot.png)  
 ### Logic Flowchart
