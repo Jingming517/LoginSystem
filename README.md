@@ -17,9 +17,17 @@ Run localhost on xampp:
 - Save the folder to C:/xampp/htdocs
 - Open localhost on browser
 
-Setup database:
+### Setup database:
 - Download xampp
 - open localhost/phpmyadmin
-- create new database
-
+- create new database  
+- go to SQL tab and key in:
+```
+CREATE TABLE users (
+idUsers int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL,
+uidUsers TINYTEXT NOT NULL,
+emailUsers TINYTEXT NOT NULL,
+pwdUsers LONGTEXT NOT NULL
+);
+```
 
