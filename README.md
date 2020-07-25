@@ -1,6 +1,14 @@
 # LoginSystem
 A simple user login system for websites. Written in PHP. 
 
+## Testing
+- Go to server : http://119.45.184.236/index.php
+- Testing account
+  User name: test
+  Password: 123
+- Can sign up your own account also
+---------------------------------------------------------
+
 ### Logic Flowchart
 ![Image](https://github.com/Jingming517/LoginSystem/blob/master/img/User_Login_Flowchart.jpg). 
 
