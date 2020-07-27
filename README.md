@@ -1,19 +1,37 @@
 # LoginSystem
 A simple user login system for websites. Written in PHP. 
 
-
-
-## Testing
-- Go to server : http://119.45.184.236/index.php
-- Testing account
-  User name: test
-  Password: 123
-- Can sign up your own account also
 ---------------------------------------------------------
 
 ### Logic Flowchart
 ![Image](https://github.com/Jingming517/LoginSystem/blob/master/img/User_Login_Flowchart.jpg). 
 
+---------------------------------------------------------
+---------------------------------------------------------
+## Setting up
+- Go to server : http://119.45.184.236/index.php
+- Testing account
+  User name: test
+  Password: 123
+- Can sign up your own account also
+-----------------------------------------
+- Local testing:  
+- Clone repository from https://github.com/Jingming517/LoginSystem 
+- Download XAMPP control panel (https://www.apachefriends.org/index.html), and save the login code folder to C:/xampp/htdocs 
+- Start Apache and MySQL in XAMPP 
+- In phpMyAdmin (http://localhost/phpmyadmin/), setup database ‘DHloginsystem’ locally using the following SQL code: 
+  ```
+  CREATE TABLE users (
+  idUsers int(11) AUTO_INCREMENT PRIMARY KEY NOT NULL,
+  uidUsers TINYTEXT NOT NULL,
+  emailUsers TINYTEXT NOT NULL,
+  pwdUsers LONGTEXT NOT NULL
+  );
+  ```
+- Open localhost (http://localhost/) on browser and test the login system 
+
+---------------------------------------------------------------------
+-----------------------------------------------------------------
 搭建个人网站：
 - 购买域名及云服务器
 -- https://cp.freehostia.com/
