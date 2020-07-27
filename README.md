@@ -6,16 +6,16 @@ A simple user login system for websites. Written in PHP.
 ### Logic Flowchart
 ![Image](https://github.com/Jingming517/LoginSystem/blob/master/img/User_Login_Flowchart.jpg). 
 
+
 ---------------------------------------------------------
----------------------------------------------------------
-## Setting up
+## Online Testing
 - Go to server : http://119.45.184.236/index.php
 - Testing account
   User name: test
   Password: 123
 - Can sign up your own account also
------------------------------------------
-- Local testing:  
+
+## Local testing:  
 - Clone repository from https://github.com/Jingming517/LoginSystem 
 - Download XAMPP control panel (https://www.apachefriends.org/index.html), and save the login code folder to C:/xampp/htdocs 
 - Start Apache and MySQL in XAMPP 
@@ -30,7 +30,6 @@ A simple user login system for websites. Written in PHP.
   ```
 - Open localhost (http://localhost/) on browser and test the login system 
 
----------------------------------------------------------------------
 -----------------------------------------------------------------
 搭建个人网站：
 - 购买域名及云服务器
